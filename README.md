@@ -1,6 +1,6 @@
 # Transaction_Analysis
 
-Effortlessly gain insights into your financial data with our interactive platform. Upload your transaction history to:**
+Effortlessly gain insights into your financial data with our interactive platform. Upload your transaction history to:
 
 - Visualize spending patterns through dynamic graphs and charts.
 - Categorize expenses to understand where your money goes.
